@@ -3,7 +3,7 @@
 @section('title', 'Create')
 @section('content')
 <div class="container">
-    <h1>Create page</h1>
+    <h1>Create page : </h1>
 
     <div class="container">
         @if ($errors->any())
